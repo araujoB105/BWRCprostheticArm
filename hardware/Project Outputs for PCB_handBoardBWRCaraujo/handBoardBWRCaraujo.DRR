@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: handBoardBWRCaraujo.PcbDoc   18/04/2018  14:23:41
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : handBoardBWRCaraujo-RoundHoles.TXT
+ASCII SquareHoles File : handBoardBWRCaraujo-SquareHoles.TXT
+ASCII RectHoles File : handBoardBWRCaraujo-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      30mil (0.762mm)                                           Round             51        PTH        0.00inch (0.00mm)
+T2      30mil (0.762mm)                                           Square            6         PTH        0.00inch (0.00mm)
+T3      65mil (1.651mm)                                           Rectangle         2         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              59
+
+Total Processing Time (hh:mm:ss) : 00:00:00

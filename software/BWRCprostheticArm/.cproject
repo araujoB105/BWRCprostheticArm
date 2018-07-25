@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?fileVersion 4.0.0?><cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
+	<storageModule moduleId="org.eclipse.cdt.core.settings">
+		<cconfiguration id="io.sloeber.core.toolChain.release.1509672505">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="io.sloeber.core.toolChain.release.1509672505" moduleId="org.eclipse.cdt.core.settings" name="Release">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+					<extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.MakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration artifactName="${ProjName}" buildProperties="" description="" id="io.sloeber.core.toolChain.release.1509672505" name="Release" parent="org.eclipse.cdt.build.core.emptycfg">
+					<folderInfo id="io.sloeber.core.toolChain.release.1509672505.1980978995" name="/" resourcePath="">
+						<toolChain id="io.sloeber.core.toolChain.release.2016216828" name="Arduino Toolchain( Sloeber edition)" superClass="io.sloeber.core.toolChain.release">
+							<targetPlatform archList="all" binaryParser="org.eclipse.cdt.core.ELF" id="io.sloeber.targetplatform.752148961" name="Arduino Target" osList="all" superClass="io.sloeber.targetplatform"/>
+							<builder buildPath="${workspace_loc:/testFeather}/Release" id="io.sloeber.sketch.builder.282275261" keepEnvironmentInBuildfile="false" managedBuildOn="true" name="Arduino sketch builder" superClass="io.sloeber.sketch.builder"/>
+							<tool id="io.sloeber.tool.sketch.compiler.cpp.416505493" name="Arduino C++ Compiler" superClass="io.sloeber.tool.sketch.compiler.cpp">
+								<option id="io.sloeber.compiler.cpp.sketch.option.incpath.1977938954" name="Include Paths (-I)" superClass="io.sloeber.compiler.cpp.sketch.option.incpath" useByScannerDiscovery="false" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armTest/core/core}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armTest/core/variant}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armTest/libraries/generic}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armTest/libraries/Adafruit_PWM_Servo_Driver_Library}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armTest/libraries/Wire}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armTest/libraries/SPI}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armRetrait/core/core}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armRetrait/core/variant}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armRetrait/libraries/generic}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armRetrait/libraries/ATMEL}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armRetrait/libraries/Adafruit_PWM_Servo_Driver_Library}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armRetrait/libraries/SPI}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armRetrait/libraries/Wire}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/core/core}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/core/variant}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/libraries/generic}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/libraries/Adafruit_PWM_Servo_Driver_Library}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/libraries/SPI}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/libraries/ATMEL}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/libraries/Adafruit_BluefruitLE_nRF51}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/libraries/Adafruit_BluefruitLE_nRF51/utility}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/libraries/Wire}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/libraries/RTCZero}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/libraries/RTCZero/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/BWRCprostheticArm/core/core}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/BWRCprostheticArm/core/variant}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/BWRCprostheticArm/libraries/generic}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/BWRCprostheticArm/libraries/Adafruit_BluefruitLE_nRF51}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/BWRCprostheticArm/libraries/Adafruit_BluefruitLE_nRF51/utility}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/BWRCprostheticArm/libraries/Adafruit_PWM_Servo_Driver_Library}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/BWRCprostheticArm/libraries/SPI}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/BWRCprostheticArm/libraries/Wire}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/BWRCprostheticArm/motor}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/BWRCprostheticArm/arm}&quot;"/>
+								</option>
+								<inputType id="io.sloeber.compiler.cpp.sketch.input.1028474494" name="CPP source files" superClass="io.sloeber.compiler.cpp.sketch.input"/>
+							</tool>
+							<tool id="io.sloeber.tool.compiler.c.423530938" name="Arduino C Compiler" superClass="io.sloeber.tool.compiler.c">
+								<option id="io.sloeber.compiler.c.sketch.option.incpath.1679656285" name="Include Paths (-I)" superClass="io.sloeber.compiler.c.sketch.option.incpath" useByScannerDiscovery="false" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armTest/core/core}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armTest/core/variant}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armTest/libraries/generic}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armTest/libraries/Adafruit_PWM_Servo_Driver_Library}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armTest/libraries/Wire}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armTest/libraries/SPI}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armRetrait/core/core}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armRetrait/core/variant}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armRetrait/libraries/generic}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armRetrait/libraries/ATMEL}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armRetrait/libraries/Adafruit_PWM_Servo_Driver_Library}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armRetrait/libraries/SPI}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armRetrait/libraries/Wire}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/core/core}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/core/variant}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/libraries/generic}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/libraries/Adafruit_PWM_Servo_Driver_Library}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/libraries/SPI}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/libraries/ATMEL}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/libraries/Adafruit_BluefruitLE_nRF51}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/libraries/Adafruit_BluefruitLE_nRF51/utility}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/libraries/Wire}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/libraries/RTCZero}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/libraries/RTCZero/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/BWRCprostheticArm/core/core}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/BWRCprostheticArm/core/variant}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/BWRCprostheticArm/libraries/generic}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/BWRCprostheticArm/libraries/Adafruit_BluefruitLE_nRF51}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/BWRCprostheticArm/libraries/Adafruit_BluefruitLE_nRF51/utility}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/BWRCprostheticArm/libraries/Adafruit_PWM_Servo_Driver_Library}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/BWRCprostheticArm/libraries/SPI}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/BWRCprostheticArm/libraries/Wire}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/BWRCprostheticArm/arm}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/BWRCprostheticArm/motor}&quot;"/>
+								</option>
+								<inputType id="io.sloeber.compiler.c.sketch.input.1207499904" name="C Source Files" superClass="io.sloeber.compiler.c.sketch.input"/>
+							</tool>
+							<tool id="io.sloeber.tool.sketch.compiler.s.1047158225" name="Arduino Assembler" superClass="io.sloeber.tool.sketch.compiler.s">
+								<option id="io.sloeber.compiler.asm.sketch.option.incpath.533890355" name="Include Paths (-I)" superClass="io.sloeber.compiler.asm.sketch.option.incpath" useByScannerDiscovery="false" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armTest/core/core}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armTest/core/variant}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armTest/libraries/generic}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armTest/libraries/Adafruit_PWM_Servo_Driver_Library}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armTest/libraries/Wire}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armTest/libraries/SPI}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armRetrait/core/core}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armRetrait/core/variant}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armRetrait/libraries/generic}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armRetrait/libraries/ATMEL}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armRetrait/libraries/Adafruit_PWM_Servo_Driver_Library}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armRetrait/libraries/SPI}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armRetrait/libraries/Wire}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/core/core}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/core/variant}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/libraries/generic}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/libraries/Adafruit_PWM_Servo_Driver_Library}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/libraries/SPI}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/libraries/ATMEL}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/libraries/Adafruit_BluefruitLE_nRF51}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/libraries/Adafruit_BluefruitLE_nRF51/utility}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/libraries/Wire}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/libraries/RTCZero}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/armPowerTest/libraries/RTCZero/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/BWRCprostheticArm/core/core}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/BWRCprostheticArm/core/variant}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/BWRCprostheticArm/libraries/generic}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/BWRCprostheticArm/libraries/Adafruit_BluefruitLE_nRF51}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/BWRCprostheticArm/libraries/Adafruit_BluefruitLE_nRF51/utility}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/BWRCprostheticArm/libraries/Adafruit_PWM_Servo_Driver_Library}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/BWRCprostheticArm/libraries/SPI}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/BWRCprostheticArm/libraries/Wire}&quot;"/>
+								</option>
+								<inputType id="io.sloeber.compiler.S.sketch.input.1514088897" name="Assembly source files" superClass="io.sloeber.compiler.S.sketch.input"/>
+							</tool>
+							<tool id="io.sloeber.tool.ar.794961485" name="Arduino archiver" superClass="io.sloeber.tool.ar"/>
+							<tool id="io.sloeber.tool.combine.1541750782" name="Arduino combiner" superClass="io.sloeber.tool.combine"/>
+							<tool id="io.sloeber.tool.objcopy.eep.2050348292" name="Arduino tool objcopy command" superClass="io.sloeber.tool.objcopy.eep"/>
+							<tool id="io.sloeber.tool.size.1889175414" name="Arduino tool Print Size" superClass="io.sloeber.tool.size"/>
+						</toolChain>
+					</folderInfo>
+					<sourceEntries>
+						<entry excluding="libraries/ATMEL/samg51|libraries/ATMEL/samd21|libraries/ATMEL/samd10|libraries/ATMEL/sam4l|libraries/ATMEL/sam3s|libraries/ATMEL/sam4cm|libraries/MemoryUsage/History|libraries/ATMEL/samd20|libraries/ATMEL/sam4e|libraries/?*/utility/*/*|libraries/ATMEL/sam3sd8|libraries/**/._*|libraries/?*/**/test*/**|libraries/ATMEL/sam4cm32|libraries/ATMEL/samg53|libraries/ATMEL/samd09|libraries/ATMEL/sam4n|libraries/ATMEL/sam3u|libraries/ATMEL/samr21|libraries/ATMEL/sam3xa|libraries/?*/**/?xamples/**|libraries/?*/**/?xtras/**|libraries/ATMEL/samd11|libraries/ATMEL/sam4s|libraries/ATMEL/sam4c|libraries/ATMEL/sam3n|libraries/?*/**/third-party/**|libraries/ATMEL/sam4sp|libraries/ATMEL/sam4cp|libraries/ATMEL/sam4c32|libraries/TimerOne/config" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+					</sourceEntries>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+	</storageModule>
+	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+		<project id="testFeather.null.546786637" name="testFeather"/>
+	</storageModule>
+	<storageModule moduleId="scannerConfiguration">
+		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
+	<storageModule moduleId="refreshScope" versionNumber="2">
+		<configuration configurationName="Release">
+			<resource resourceType="PROJECT" workspacePath="/testFeather"/>
+		</configuration>
+	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.make.core.buildtargets"/>
+	<storageModule moduleId="org.eclipse.cdt.internal.ui.text.commentOwnerProjectMappings"/>
+</cproject>

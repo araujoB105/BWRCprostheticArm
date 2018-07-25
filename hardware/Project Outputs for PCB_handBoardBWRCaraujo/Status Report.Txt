@@ -1,0 +1,26 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PCB_handBoardBWRCaraujo.PrjPCB]
+   Generated File[handBoardBWRCaraujo.GTO]
+   Generated File[handBoardBWRCaraujo.GTP]
+   Generated File[handBoardBWRCaraujo.GTS]
+   Generated File[handBoardBWRCaraujo.GTL]
+   Generated File[handBoardBWRCaraujo.GBL]
+   Generated File[handBoardBWRCaraujo.GBS]
+   Generated File[handBoardBWRCaraujo.GBP]
+   Generated File[handBoardBWRCaraujo.GBO]
+   Generated File[handBoardBWRCaraujo.GM1]
+   Generated File[handBoardBWRCaraujo.GKO]
+   Generated File[handBoardBWRCaraujo.GPT]
+   Generated File[handBoardBWRCaraujo.GPB]
+   Generated File[handBoardBWRCaraujo.GD1]
+   Generated File[handBoardBWRCaraujo.GG1]
+   Generated File[handBoardBWRCaraujo.RUL]
+   Generated File[handBoardBWRCaraujo.EXTREP]
+   Generated File[handBoardBWRCaraujo.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 14:28:52 On 18/04/2018

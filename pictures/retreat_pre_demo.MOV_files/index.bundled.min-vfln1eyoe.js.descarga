@@ -1,0 +1,2 @@
+define(["require","exports","tslib","react","spectrum/packages/spectrum-icons/templates/stateless/index","spectrum/packages/spectrum-icons/generated/bundles/media"],function(e,t,n,s,a,r){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.ICONS=r.ICONS,t.IconMedia=function(e){var t=e.name,c=r.ICONS[t],i=c.attrs,o=c.innerHtml,m=s.createElement("svg",n.__assign({},i,{dangerouslySetInnerHTML:{__html:o}}));return s.createElement(a.Component,n.__assign({icon:m},e,{key:t}))},t.IconMedia.displayName="IconMedia"});
+//# sourceMappingURL=index.bundled.min.js-vfl0lt3DH.map

@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\araujo\Documents\BWRC\prostheticArm\HACKberry-master\HACKberry_circuit\handBoardBWRCaraujo.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=handboardbwrcaraujo-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Square_Holes|DrillFile=handboardbwrcaraujo-squareholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=handboardbwrcaraujo-rectholes.txt|DrillLayers=gtl,gbl

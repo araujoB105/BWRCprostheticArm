@@ -1,0 +1,26 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PCB_BatteryBoardAraujo.PrjPCB]
+   Generated File[batteryBoardProjectaraujo.GTO]
+   Generated File[batteryBoardProjectaraujo.GTP]
+   Generated File[batteryBoardProjectaraujo.GTS]
+   Generated File[batteryBoardProjectaraujo.GTL]
+   Generated File[batteryBoardProjectaraujo.GBL]
+   Generated File[batteryBoardProjectaraujo.GBS]
+   Generated File[batteryBoardProjectaraujo.GBP]
+   Generated File[batteryBoardProjectaraujo.GBO]
+   Generated File[batteryBoardProjectaraujo.GM1]
+   Generated File[batteryBoardProjectaraujo.GKO]
+   Generated File[batteryBoardProjectaraujo.GPT]
+   Generated File[batteryBoardProjectaraujo.GPB]
+   Generated File[batteryBoardProjectaraujo.GD1]
+   Generated File[batteryBoardProjectaraujo.GG1]
+   Generated File[batteryBoardProjectaraujo.RUL]
+   Generated File[batteryBoardProjectaraujo.EXTREP]
+   Generated File[batteryBoardProjectaraujo.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 14:29:39 On 18/04/2018
